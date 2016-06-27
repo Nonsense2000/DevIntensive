@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name">Исупов Сергей</string>
+    <string name="app_num">5</string>
+    <string name="elo">Рейтинг</string>
+    <string name="string_num">Написано строк кода</string>
+    <string name="proj">Проектов</string>
+    <string name="phone_hint">Мобильный</string>
+    <string name="phone_text">+7 (911) 111-11-11</string>
+    <string name="email_hint">E-mail</string>
+    <string name="email_text">wal***@gmail.com</string>
+    <string name="vk_hint">Профль в Vk</string>
+    <string name="vk_text">vk.com/walter03</string>
+    <string name="rep_hint">Репозиторий</string>
+    <string name="rep_text">github.com/Nonsense2000</string>
+    <string name="about_hint">О себе</string>
+    <string name="about_text">За поворотом – дом, тепло, очаг,\n
+А впереди – лишь свист разящей стали.\n
+Не предавай, не предавай себя печали,\n
+И помни – ты себе есть главный враг…\n
+    </string>
+
+
+
 </resources>
